@@ -1,0 +1,9 @@
+# .gitignore content
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+*.db
+.DS_Store
